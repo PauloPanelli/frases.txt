@@ -1,9 +1,1 @@
-truco
-seis
-nove
-doze
-perdiii
-
-
-textos aleatorios
-eu gostaria de aprendeeeeeeeer
+parece que eu aprendi um pouco sobre git hoje
